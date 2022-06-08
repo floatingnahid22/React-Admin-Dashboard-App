@@ -7,6 +7,8 @@
 1. Delete src folder and newly create it again as a empty folder and add file called App.js and index.js.
 
 2. just copy paste- package.json
+
+```sh
    {
    "name": "project_syncfusion_dashboard",
    "version": "0.1.0",
@@ -64,6 +66,7 @@
    "tailwindcss": "^3.0.19"
    }
    }
+```
 
 3. And then install all the dependecies
 
@@ -72,4 +75,4 @@
 ```
 
 4. then create files called App.css and index.css.
-5. then create 2 files in main project called craco.config.js and tailwind.config.js just copy paste it, what it is.
+5. then create 2 files in main project called craco.config.js and tailwind.config.js just copy paste it, what it is in my project.
