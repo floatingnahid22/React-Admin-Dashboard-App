@@ -3,7 +3,7 @@
 ## Link:
 
 ```sh
-
+    https://amazing-admin-dashboard.netlify.app/
 ```
 
 #Set up
